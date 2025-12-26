@@ -1,2 +1,4 @@
 # Weather-app
-A simple weather app using HTML, CSS, and JavaScript
+# Weather App
+A mini project that displays weather details like temperature, humidity, and wind speed using JavaScript.
+
